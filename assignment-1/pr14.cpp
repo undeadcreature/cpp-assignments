@@ -62,3 +62,8 @@ int main() {
 
     return 0;
 }
+//output:
+// Enter an operator (+, -, *, /): *
+// Enter two operands: 5 3
+// 5 * 3 = 15
+// [Switch] 5 * 3 = 15

@@ -12,13 +12,11 @@ int main() {
         return 0;
     }
 
-    // Handle negative numbers
     if (number < 0) {
         cout << "minus ";
         number = -number;
     }
 
-    // Store digits in reverse order
     string words = "";
     while (number > 0) {
         int digit = number % 10;

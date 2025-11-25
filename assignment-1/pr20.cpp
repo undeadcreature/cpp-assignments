@@ -8,16 +8,11 @@ int main() {
     const int fileSizeMB = 400;
     const int bytesPerMB = 1024 * 1024;
 
-    // Convert file size to bytes
     long long fileSizeBytes = static_cast<long long>(fileSizeMB) * bytesPerMB;
 
-    // Calculate total characters in the file
     long long totalCharacters = fileSizeBytes / bytesPerCharacter;
 
-    // Calculate time in seconds
     double timeInSeconds = static_cast<double>(totalCharacters) / charactersPerSecond;
-
-    // Convert time to hours, minutes, and seconds
     int hours = static_cast<int>(timeInSeconds) / 3600;
     int minutes = (static_cast<int>(timeInSeconds) % 3600) / 60;
     int seconds = static_cast<int>(timeInSeconds) % 60;

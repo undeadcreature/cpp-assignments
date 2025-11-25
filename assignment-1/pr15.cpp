@@ -29,3 +29,8 @@ int main() {
 
     return 0;
 }
+//output:
+// Enter the number of resistors in parallel: 2
+// Enter resistance of resistor 1 (in ohms): 400
+// Enter resistance of resistor 2 (in ohms): 200
+// Total resistance of the parallel resistors is: 133.333 ohms

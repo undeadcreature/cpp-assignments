@@ -19,3 +19,6 @@ int main() {
 
     return 0;
 }
+//output:
+//Enter a positive integer: 5
+//Factorial of 5 = 120
