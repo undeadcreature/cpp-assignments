@@ -9,3 +9,9 @@ int main(){
     cout<<"Largest number is: "<<result<<endl;
     return 0;
 }
+//output:
+//Enter three numbers:
+//5
+//8
+//3
+//Largest number is: 8

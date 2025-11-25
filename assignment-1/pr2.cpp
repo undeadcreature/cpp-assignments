@@ -23,3 +23,13 @@ int main(){
 
     return 0;
 }
+//output:
+//Enter numbers (0 to stop):
+//5
+//-3
+//8
+//-1
+//0
+//result :
+//Positive numbers entered: 2
+//Negative numbers entered: 2

@@ -30,3 +30,6 @@ int main(){
 
     return 0;
 }
+//output:
+//Enter number: 7
+//Fibonacci series up to 7 terms: 0, 1, 1, 2, 3, 5, 8

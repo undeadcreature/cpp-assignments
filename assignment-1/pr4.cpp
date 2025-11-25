@@ -18,3 +18,7 @@ int main(){
     cout<<a<<" "<<b<<endl;
     return 0;
 }
+
+//output:
+//30 20
+//20 30

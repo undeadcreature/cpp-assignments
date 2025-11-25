@@ -24,3 +24,7 @@ int main(){
     return 0;
 
 }
+//output:
+//Enter five numbers :1 2 3 4 5
+//sum using for loop is : 15
+//sum using while loop is : 15

@@ -17,3 +17,7 @@ int main(){
     cout<<"Average is: "<<(float)sum/n;
     return 0;
 }
+//output:
+//Enter how many numbers you want to enter: 4
+//Enter 4 numbers: 5 10 15 20
+//Average is: 12.5

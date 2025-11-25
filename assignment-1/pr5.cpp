@@ -12,3 +12,8 @@ int main(){
     cout<<"Rounded amount: "<<rounded_amount<<endl;
     return 0;
 }
+//output:
+//Enter amount:
+//100
+//Net amount after tax: 108
+//Rounded amount: 108
